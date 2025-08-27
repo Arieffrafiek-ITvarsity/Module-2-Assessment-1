@@ -19,6 +19,8 @@ body{
       display: block;
       margin : auto;
       height : 70%;
+     padding-top: 15px; 
+}
 
      #tabs-top{
       position: fixed;
@@ -41,5 +43,4 @@ body{
       text-decoration : none;
       padding-top     : 12px;  
 }
-      padding-top: 15px; 
-}
+      
