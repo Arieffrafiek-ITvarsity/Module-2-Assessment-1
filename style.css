@@ -4,6 +4,8 @@ body{
      font-family: Helvetica;
 }
 
+/==============header==============/
+
 #header{
       position: fixed;
       top     : 0;
@@ -21,6 +23,8 @@ body{
       height : 70%;
      padding-top: 15px; 
 }
+
+/==============top-tab==============/
 
      #tabs-top{
       position: fixed;
