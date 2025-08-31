@@ -103,3 +103,17 @@ a.info-box{
       margin-top      : 12px;
       padding         : 1px; 
 }
+
+/*============== MAIN ==============*/
+
+#main{
+    margin-top: 119px;
+    background: url('images/map-blur.png');
+    background-repeat: repeat-y;
+}
+
+#content{
+    padding-top: 1px;
+    padding-bottom: 50px;
+}
+     
