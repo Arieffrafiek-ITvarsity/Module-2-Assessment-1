@@ -102,6 +102,7 @@ a.info-box{
       margin          : auto;
       margin-top      : 12px;
       padding         : 1px; 
+      border-radius   : 10px;
 }
 
 .info-box img{
